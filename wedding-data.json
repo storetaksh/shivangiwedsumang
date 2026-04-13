@@ -1,80 +1,70 @@
 {
     "couple": {
         "groom": {
-            "name": "Aashutosh",
+            "name": "Dr.Shivangi",
             "parents": {
-                "mother": "Mrs. Sheela Devi",
-                "father": "Mr. Jai Krishna Rai"
+                "mother": "Mrs. Anita Singh",
+                "father": "Dr. Dilip Kumar"
             }
         },
         "bride": {
-            "name": "Anjali",
+            "name": "Dr.Umang",
             "parents": {
-                "mother": "Mrs. Rajani Mishra",
-                "father": "Mr. Pawan Kumar Mishra"
+                "mother": "Mrs. Sudha Chaubey",
+                "father": "Mr. Girish Chaubey"
             }
         },
-        "hashtag": "#AnShuForever"
+        "hashtag": "#shivangiumangforever"
     },
     "wedding": {
-        "date": "2026-05-01T18:00:00",
-        "displayDate": "MAY 1st, 2026"
+        "date": "2026-05-07T18:00:00",
+        "displayDate": "MAY 7th, 2026"
     },
     "celebrations": [
         {
-            "name": "Shagun & Tilak",
-            "date": "Apr 28, 2026",
+            "name": "Subh Tilak",
+            "date": "May 3, 2026",
             "time": "1:00 PM",
-            "venue": "Muzaffarpur",
+            "venue": "Bank Road, Gorakhpur",
             "showLocation": false,
-            "dressCode": "Traditional Indian Wear",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Shagun+%26+Tilak&dates=20260428T130000/20260428T140000&details=Shagun+%26+Tilak+Ceremony&location=Muzaffarpur&ctz=Asia/Kolkata"
+            "dressCode": "Note: Bus will depart from Lakhisarai at 7:00 AM for Gorakhpur.",
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+Tilak&dates=20260503T130000/20260503T140000&details=Shivangi+%26+Umang+Tilak+Ceremony&location=Bank+Road,+Gorakhpur&ctz=Asia/Kolkata"
         },
         {
-            "name": "Haldi & Mehandi Delight",
-            "date": "Apr 30, 2026",
+            "name": "Haldi",
+            "date": "May 5, 2026",
             "time": "10:00 AM",
-            "venue": "Dalaan Resort, Darbhanga",
-            "googleMapsUrl": "https://maps.app.goo.gl/o9qe87oFZgnpcRZ66",
+            "venue": "Dr. Dilip Kumar's Residence, Lakhisarai",
+            "googleMapsUrl": "https://maps.app.goo.gl/nFRRw9mKtcXUzJr26",
             "showLocation": true,
             "mapImage": "assets/images/map.png",
             "dressCode": "Marigold & Mint",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Haldi+%26+Mehandi&dates=20260430T100000/20260430T110000&details=Haldi+%26+Mehandi+Ceremony&location=Dalaan+Resort,+Darbhanga&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+-+Haldi+Ceremony&dates=20260505T100000/20260505T110000&details=Haldi+Ceremony&location=Dr.+Dilip+Kumar's+Residence,+Lakhisarai&ctz=Asia/Kolkata"
         },
         {
-            "name": "Sangeet Night",
-            "date": "Apr 30, 2026",
-            "time": "7:00 PM",
-            "venue": "Dalaan Resort, Darbhanga",
-            "googleMapsUrl": "https://maps.app.goo.gl/53Gwi5RxcAEgncsTA",
+            "name": "Mehandi",
+            "date": "May 6, 2026",
+            "time": "10:00 AM",
+            "venue": "Dr. Dilip Kumar's Residence, Lakhisarai",
+            "googleMapsUrl": "https://maps.app.goo.gl/nFRRw9mKtcXUzJr26",
             "showLocation": true,
             "dressCode": "Shimmer, Shine & Show-Stop",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Sangeet+Night&dates=20260430T190000/20260430T200000&details=Sangeet+Night&location=Darbhanga&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+-+Mehandi+Ceremony&dates=20260506T220000/20260506T230000&details=Mehandi+Ceremony&location=Dr.+Dilip+Kumar's+Residence,+Lakhisarai&ctz=Asia/Kolkata"
         },
         {
-            "name": "AnShu Ki Mangal Shaadi",
-            "date": "May 1, 2026",
+            "name": "Subh Vivah",
+            "date": "May 7, 2026",
             "time": "6:00 PM",
-            "venue": "Dalaan Resort, Darbhanga",
-            "googleMapsUrl": "https://maps.app.goo.gl/NsG4jAT9gpjaP9xEA",
+            "venue": "Chitranjan Road, Near PB High School, Lakhisarai",
+            "googleMapsUrl": "https://maps.app.goo.gl/xfZ4t7FmWR1schgF9",
             "showLocation": true,
             "dressCode": "Royal & Regal",
             "highlight": true,
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Mangal+Shaadi&dates=20260501T180000/20260501T190000&details=Wedding+Ceremony&location=Dalaan+Resort&ctz=Asia/Kolkata"
-        },
-        {
-            "name": "Reception",
-            "date": "May 9, 2026",
-            "time": "7:00 PM",
-            "venue": "Shankar Orchids, Muzaffarpur",
-            "googleMapsUrl": "https://maps.app.goo.gl/ghrynPEXkaisPR3b9",
-            "showLocation": true,
-            "dressCode": "Dress to Bless",
-            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aashutosh+%26+Anjali+-+Reception&dates=20260509T190000/20260509T200000&details=Reception+Ceremony&location=Shankar+Orchids,+Muzaffarpur&ctz=Asia/Kolkata"
+            "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shivangi+%26+Umang+-+Subh+Vivah&dates=20260507T180000/20260507T190000&details=Wedding+Ceremony&location=Dalaan+Resort,+Darbhanga&ctz=Asia/Kolkata"
         }
     ],
     "contact": {
-        "whatsapp": "919199188101",
+        "whatsapp": "919279199524",
         "instagram": ""
     },
     "messages": {
@@ -86,5 +76,5 @@
         "url": "assets/music/music.mp3",
         "autoplay": true
     },
-    "websiteUrl": "https://theaashuanjaliaffair.netlify.app/"
+    "websiteUrl": "https://shivangiwedsumang.netlify.app/"
 }
