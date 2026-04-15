@@ -1,17 +1,17 @@
 {
     "couple": {
         "groom": {
-            "name": "Dr.Shivangi",
-            "parents": {
-                "mother": "Mrs. Anita Singh",
-                "father": "Dr. Dilip Kumar"
-            }
-        },
-        "bride": {
             "name": "Dr.Umang",
             "parents": {
                 "mother": "Mrs. Sudha Chaubey",
                 "father": "Mr. Girish Chaubey"
+            }
+        },
+        "bride": {
+            "name": "Dr.Shivangi",
+            "parents": {
+                "mother": "Mrs. Anita Singh",
+                "father": "Dr. Dilip Kumar"
             }
         },
         "hashtag": "#shivangiumangforever"
